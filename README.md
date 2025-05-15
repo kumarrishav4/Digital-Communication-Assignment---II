@@ -23,8 +23,9 @@ This repository contains MATLAB code and documentation for Assignment #2 of the 
 | `code/problem3.m` | Polar NRZ line coding, Eye diagram for first 20 bits |
 | `code/problem4.m` | Raised cosine pulse shaping for different roll-off factors |
 | `code/problem5.m` | Transmit waveform with raised cosine pulse, AWGN channel effect, Eye diagrams |
+| `code/helper.m` | Quantization Function, Digital to Analog Reconstruction Function, Raised Cosine Function |
 | `report/report.pdf` | Detailed explanations, results, and observations |
-| `README.md` | This file |
+| `README.md` | 
 
 ---
 
